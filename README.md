@@ -7,7 +7,8 @@
 
 <img width="1738" height="397" alt="image" src="https://github.com/user-attachments/assets/e5917bff-a82c-4bce-b9b7-13eeb435a3b3" />
 <img width="1249" height="510" alt="image" src="https://github.com/user-attachments/assets/14b2134f-0741-4cf6-8171-beff274dfcfc" />
-<img width="580" height="324" alt="image" src="https://github.com/user-attachments/assets/9562d9b2-909f-44fb-ac1f-aa7d1161c699" />
+<img width="1218" height="676" alt="image" src="https://github.com/user-attachments/assets/34aa7ff6-896c-4656-8351-6c741b3aed67" />
+
 
 </div>
 
@@ -245,4 +246,4 @@ ORDER BY ps.Total_Spent DESC;
 
 ## 👤 Author
 
-**Sadia Uzma Ashrafi**
+**Sadia Uzma Ashrafi Srijita Das Gourab Mondal Tuhin Roy**
