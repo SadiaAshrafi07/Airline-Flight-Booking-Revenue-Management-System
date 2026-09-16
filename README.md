@@ -5,6 +5,7 @@
 
 **A relational SQL project covering joins, subqueries, aggregation, window functions, CTEs, indexes, views — and an optional AI agent layer.**
 
+<img width="890" height="505" alt="image" src="https://github.com/user-attachments/assets/14ba5b78-d066-427b-94d0-b146415ad0c0" />
 <img width="1738" height="397" alt="image" src="https://github.com/user-attachments/assets/e5917bff-a82c-4bce-b9b7-13eeb435a3b3" />
 <img width="1249" height="510" alt="image" src="https://github.com/user-attachments/assets/14b2134f-0741-4cf6-8171-beff274dfcfc" />
 <img width="1218" height="676" alt="image" src="https://github.com/user-attachments/assets/34aa7ff6-896c-4656-8351-6c741b3aed67" />
